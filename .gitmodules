@@ -1,0 +1,6 @@
+[submodule "JSON-parser"]
+	path = JSON-parser
+	url = git@github.com:amunium/JSON-parser.git
+[submodule "USB-keyboard-packets-to-text"]
+	path = USB-keyboard-packets-to-text
+	url = git@github.com:amunium/USB-keyboard-packets-to-text.git
